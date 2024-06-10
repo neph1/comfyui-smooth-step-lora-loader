@@ -10,3 +10,6 @@ It resides in the "loader" category.
 
 Explanation:
 https://www.reddit.com/r/StableDiffusion/comments/1dctns3/comfy_ui_smooth_step_lora_loader_and_python/
+
+Gist (put in kohya_ss sd-scripts/networks) for non-comfy users (or to make it permanent):
+https://gist.github.com/neph1/499f608ca88bc8443facb95d3831e901
