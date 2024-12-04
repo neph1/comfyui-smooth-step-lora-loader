@@ -1,5 +1,7 @@
 # comfyui-smooth-step-lora-loader
 
+Update: The script version (at the bottom) also 'works' with CogVideoX loras.
+
 Frustration over long lora training times coupled with undertrained results (SDXL on 3060), I started wondering if it was possible to do anything similar with loras (which of course is a completely different concept from TI)
 
 Would it be possible to enhance desirable elements, while diminishing undesirable ones? After some experimenting with normalization functions I ended up with a smooth step function. In simple terms, smooth step increases values above the mean, while lowering values under it.
