@@ -9,6 +9,6 @@ Repository = "https://github.com/neph1/comfyui-smooth-step-lora-loader"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "neph1"
 DisplayName = "comfyui-smooth-step-lora-loader"
 Icon = ""
