@@ -1,6 +1,6 @@
 # comfyui-smooth-step-lora-loader
 
-Update: The script version (at the bottom) also 'works' with CogVideoX loras.
+v1.1.0: Updated to support more lora types, including video generating ones (tested with LTX-Video)
 
 Frustration over long lora training times coupled with undertrained results (SDXL on 3060), I started wondering if it was possible to do anything similar with loras (which of course is a completely different concept from TI)
 
